@@ -1,6 +1,7 @@
-#Guacamole
-##Ingredients
+# Guacamole
+## Ingredients
 Avocado $2
 Salt $2
 Lime #1
-##Instructions
+## Instructions
+Please eat this :)
