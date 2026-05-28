@@ -2,5 +2,5 @@
 ##Ingredients
 Avocado
 Salt
-Lemon
+Lime
 ##Instructions
